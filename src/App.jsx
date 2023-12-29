@@ -1,6 +1,6 @@
-import React from "react";
 import "./App.css";
 import TwitterFollowCard from "./TwitterFollowCard";
+import { useState } from "react";
 
 const App = () => {
   return (
